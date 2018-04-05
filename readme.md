@@ -39,7 +39,7 @@ or
 
 ```
 docker run avalanche go test
-``
+```
 
 You can optionally pass in a `-v` flag to see more details.
 
