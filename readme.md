@@ -17,7 +17,7 @@ There are some pre-defined json files in the `examples` folder.
 Once you have cloned this project into the `github.com/rydurham/avalanche` folder in your gopath, you can build it from within that directory:
 
 ```
-{gopath}/github.com/srlabs/avalanche $ go build
+{gopath}/github.com/rydurham/avalanche $ go build
 ```
 
 A dockerfile has also been provided that will do this for you:
@@ -32,7 +32,7 @@ docker run avalanche ./avalanche examples/example1.json
 To run the tests:
 
 ```
-{gopath}/github.com/srlabs/avalanche $ go test
+{gopath}/github.com/rydurham/avalanche $ go test
 ```
 
 or
